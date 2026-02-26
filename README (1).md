@@ -6,7 +6,7 @@ Analyse des performances en karaté lors des JO de Tokyo 2020.
 
 Le karaté a fait sa première et unique apparition olympique aux JO de Tokyo 2020, avec 8 épreuves réparties entre deux disciplines : le **Kata** (technique) et le **Kumite** (combat). Ce projet analyse les 32 médailles distribuées à 81 athlètes issus de 20 pays différents.
 
-##  TEchnologies
+##  Technologies
 
 **Python ** Nettoyage, transformation et analyse des données
 **Pandas / NumPy** Manipulation de DataFrames, agrégations, jointures |
