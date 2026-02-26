@@ -8,10 +8,10 @@ Le karaté a fait sa première et unique apparition olympique aux JO de Tokyo 20
 
 ##  TEchnologies
 
-| **Python ** | Nettoyage, transformation et analyse des données |
-| **Pandas / NumPy** | Manipulation de DataFrames, agrégations, jointures |
-| **Matplotlib** | Visualisations statistiques (bar charts, histogrammes, pie charts) |
-| **Power BI** | Dashboard interactif avec filtres et KPIs |
+**Python ** Nettoyage, transformation et analyse des données
+**Pandas / NumPy** Manipulation de DataFrames, agrégations, jointures |
+**Matplotlib** Visualisations statistiques (bar charts, histogrammes, pie charts) |
+**Power BI** Dashboard interactif avec filtres et KPIs |
 
 ##  Démarche d'analyse
 
@@ -40,10 +40,8 @@ Dashboard interactif en 2 pages :
 
 > *Ajouter ici les captures d'écran de votre dashboard Power BI*
 
-<!--
-![Dashboard Page 1](images/dashboard_page1.png)
-![Dashboard Page 2](images/dashboard_page2.png)
--->
+<img width="1816" height="835" alt="image" src="https://github.com/user-attachments/assets/14d24070-81a3-442c-9639-0adea4220089" />
+<img width="1629" height="831" alt="image" src="https://github.com/user-attachments/assets/8ac898c6-888a-4740-b731-c4f0ef4eb6bc" />
 
 ## 🗃️ Source des données
 
