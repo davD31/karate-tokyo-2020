@@ -8,10 +8,9 @@ Le karaté a fait sa première et unique apparition olympique aux JO de Tokyo 20
 
 ##  Technologies
 
-**Python ** Nettoyage, transformation et analyse des données
-**Pandas / NumPy** Manipulation de DataFrames, agrégations, jointures |
-**Matplotlib** Visualisations statistiques (bar charts, histogrammes, pie charts) |
-**Power BI** Dashboard interactif avec filtres et KPIs |
+Python(Pandas)
+Matplotlib
+Power BI
 
 ##  Démarche d'analyse
 
