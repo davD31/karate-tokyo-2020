@@ -1,0 +1,33 @@
+medal_type,medal_code,medal_date,athlete_short_name,athlete_name,athlete_sex,athlete_link,country_code,discipline_code,event,country,discipline,subdiscipline
+Gold,1,2021-08-05 00:00:00.0,da COSTA S,da COSTA Steven,M,../../../en/results/karate/athlete-profile-n1310945-da-costa-steven.htm,FRA,KTE,Men's Kumite -67kg,France,Karate,Kumite
+Silver,2,2021-08-05 00:00:00.0,SAMDAN E,SAMDAN Eray,M,../../../en/results/karate/athlete-profile-n1325280-samdan-eray.htm,TUR,KTE,Men's Kumite -67kg,Turkey,Karate,Kumite
+Bronze,3,2021-08-05 00:00:00.0,ALMASATFA AR,ALMASATFA Abdel Rahman,M,../../../en/results/karate/athlete-profile-n1406770-almasatfa-abdel-rahman.htm,JOR,KTE,Men's Kumite -67kg,Jordan,Karate,Kumite
+Bronze,3,2021-08-05 00:00:00.0,ASSADILOV D,ASSADILOV Darkhan,M,../../../en/results/karate/athlete-profile-n1304791-assadilov-darkhan.htm,KAZ,KTE,Men's Kumite -67kg,Kazakhstan,Karate,Kumite
+Gold,1,2021-08-05 00:00:00.0,SANCHEZ JAIME S,SANCHEZ JAIME Sandra,W,../../../en/results/karate/athlete-profile-n1337340-sanchez-jaime-sandra.htm,ESP,KTE,Women's Kata,Spain,Karate,Kata
+Silver,2,2021-08-05 00:00:00.0,SHIMIZU K,SHIMIZU Kiyou,W,../../../en/results/karate/athlete-profile-n1315384-shimizu-kiyou.htm,JPN,KTE,Women's Kata,Japan,Karate,Kata
+Bronze,3,2021-08-05 00:00:00.0,LAU MSG,LAU Mo Sheung Grace,W,../../../en/results/karate/athlete-profile-n1399347-lau-mo-sheung-grace.htm,HKG,KTE,Women's Kata,Hong Kong,Karate,Kata
+Bronze,3,2021-08-05 00:00:00.0,BOTTARO V,BOTTARO Viviana,W,../../../en/results/karate/athlete-profile-n1337868-bottaro-viviana.htm,ITA,KTE,Women's Kata,Italy,Karate,Kata
+Gold,1,2021-08-05 00:00:00.0,GORANOVA I,GORANOVA Ivet,W,../../../en/results/karate/athlete-profile-n1328509-goranova-ivet.htm,BUL,KTE,Women's Kumite -55kg,Bulgaria,Karate,Kumite
+Silver,2,2021-08-05 00:00:00.0,TERLIUGA A,TERLIUGA Anzhelika,W,../../../en/results/karate/athlete-profile-n1337148-terliuga-anzhelika.htm,UKR,KTE,Women's Kumite -55kg,Ukraine,Karate,Kumite
+Bronze,3,2021-08-05 00:00:00.0,PLANK B,PLANK Bettina,W,../../../en/results/karate/athlete-profile-n1334480-plank-bettina.htm,AUT,KTE,Women's Kumite -55kg,Austria,Karate,Kumite
+Bronze,3,2021-08-05 00:00:00.0,WEN T,WEN Tzuyun,W,../../../en/results/karate/athlete-profile-n1335765-wen-tzuyun.htm,TPE,KTE,Women's Kumite -55kg,Taiwan,Karate,Kumite
+Gold,1,2021-08-06 00:00:00.0,KIYUNA R,KIYUNA Ryo,M,../../../en/results/karate/athlete-profile-n1315377-kiyuna-ryo.htm,JPN,KTE,Men's Kata,Japan,Karate,Kata
+Silver,2,2021-08-06 00:00:00.0,QUINTERO D,QUINTERO Damian,M,../../../en/results/karate/athlete-profile-n1337337-quintero-damian.htm,ESP,KTE,Men's Kata,Spain,Karate,Kata
+Bronze,3,2021-08-06 00:00:00.0,SOFUOGLU A,SOFUOGLU Ali,M,../../../en/results/karate/athlete-profile-n1325308-sofuoglu-ali.htm,TUR,KTE,Men's Kata,Turkey,Karate,Kata
+Bronze,3,2021-08-06 00:00:00.0,TORRES GUTIERREZ A,TORRES GUTIERREZ Ariel,M,../../../en/results/karate/athlete-profile-n1320161-torres-gutierrez-ariel.htm,USA,KTE,Men's Kata,United States of America,Karate,Kata
+Gold,1,2021-08-06 00:00:00.0,BUSA L,BUSA Luigi,M,../../../en/results/karate/athlete-profile-n1337871-busa-luigi.htm,ITA,KTE,Men's Kumite -75kg,Italy,Karate,Kumite
+Silver,2,2021-08-06 00:00:00.0,AGHAYEV R,AGHAYEV Rafael,M,../../../en/results/karate/athlete-profile-n1439675-aghayev-rafael.htm,AZE,KTE,Men's Kumite -75kg,Azerbaijan,Karate,Kumite
+Bronze,3,2021-08-06 00:00:00.0,HARSPATAKI KG,HARSPATAKI Karoly Gabor,M,../../../en/results/karate/athlete-profile-n1327826-harspataki-karoly-gabor.htm,HUN,KTE,Men's Kumite -75kg,Hungary,Karate,Kumite
+Bronze,3,2021-08-06 00:00:00.0,HORUNA S,HORUNA Stanislav,M,../../../en/results/karate/athlete-profile-n1317051-horuna-stanislav.htm,UKR,KTE,Men's Kumite -75kg,Ukraine,Karate,Kumite
+Gold,1,2021-08-06 00:00:00.0,PREKOVIC J,PREKOVIC Jovana,W,../../../en/results/karate/athlete-profile-n1342123-prekovic-jovana.htm,SRB,KTE,Women's Kumite -61kg,Serbia,Karate,Kumite
+Silver,2,2021-08-06 00:00:00.0,YIN X,YIN Xiaoyan,W,../../../en/results/karate/athlete-profile-n1309465-yin-xiaoyan.htm,CHN,KTE,Women's Kumite -61kg,China,Karate,Kumite
+Bronze,3,2021-08-06 00:00:00.0,LOTFY G,LOTFY Giana,W,../../../en/results/karate/athlete-profile-n1306451-lotfy-giana.htm,EGY,KTE,Women's Kumite -61kg,Egypt,Karate,Kumite
+Bronze,3,2021-08-06 00:00:00.0,COBAN M,COBAN Merve,W,../../../en/results/karate/athlete-profile-n1325252-coban-merve.htm,TUR,KTE,Women's Kumite -61kg,Turkey,Karate,Kumite
+Gold,1,2021-08-07 00:00:00.0,GANJZADEH S,GANJZADEH Sajad,M,../../../en/results/karate/athlete-profile-n1284739-ganjzadeh-sajad.htm,IRI,KTE,Men's Kumite +75kg,Iran,Karate,Kumite
+Silver,2,2021-08-07 00:00:00.0,HAMEDI T,HAMEDI Tareg,M,../../../en/results/karate/athlete-profile-n1483645-hamedi-tareg.htm,KSA,KTE,Men's Kumite +75kg,Saudi Arabia,Karate,Kumite
+Bronze,3,2021-08-07 00:00:00.0,ARAGA R,ARAGA Ryutaro,M,../../../en/results/karate/athlete-profile-n1315375-araga-ryutaro.htm,JPN,KTE,Men's Kumite +75kg,Japan,Karate,Kumite
+Bronze,3,2021-08-07 00:00:00.0,AKTAS U,AKTAS Ugur,M,../../../en/results/karate/athlete-profile-n1325285-aktas-ugur.htm,TUR,KTE,Men's Kumite +75kg,Turkey,Karate,Kumite
+Gold,1,2021-08-07 00:00:00.0,ABDELAZIZ F,ABDELAZIZ Feryal,W,../../../en/results/karate/athlete-profile-n1306348-abdelaziz-feryal.htm,EGY,KTE,Women's Kumite +61kg,Egypt,Karate,Kumite
+Silver,2,2021-08-07 00:00:00.0,ZARETSKA I,ZARETSKA Iryna,W,../../../en/results/karate/athlete-profile-n1439654-zaretska-iryna.htm,AZE,KTE,Women's Kumite +61kg,Azerbaijan,Karate,Kumite
+Bronze,3,2021-08-07 00:00:00.0,GONG L,GONG Li,W,../../../en/results/karate/athlete-profile-n1309456-gong-li.htm,CHN,KTE,Women's Kumite +61kg,China,Karate,Kumite
+Bronze,3,2021-08-07 00:00:00.0,BERULTSEVA S,BERULTSEVA Sofya,W,../../../en/results/karate/athlete-profile-n1304797-berultseva-sofya.htm,KAZ,KTE,Women's Kumite +61kg,Kazakhstan,Karate,Kumite
