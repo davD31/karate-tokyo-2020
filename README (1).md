@@ -36,12 +36,12 @@ Dashboard interactif en 2 pages :
 - **Page 1** : Vue d'ensemble par pays 
 - **Page 2** : Comparaison Kata vs Kumite
 
-## 📸 Aperçu du Dashboard
+## Aperçu du Dashboard
 
 <img width="1816" height="835" alt="image" src="https://github.com/user-attachments/assets/14d24070-81a3-442c-9639-0adea4220089" />
 <img width="1629" height="831" alt="image" src="https://github.com/user-attachments/assets/8ac898c6-888a-4740-b731-c4f0ef4eb6bc" />
 
-## 🗃️ Source des données
+## Source des données
 
 [Kaggle — Tokyo 2020 Olympic Summer Games](https://www.kaggle.com/datasets/piterfm/tokyo-2020-olympics)
 
