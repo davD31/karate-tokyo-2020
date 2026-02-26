@@ -8,9 +8,9 @@ Le karaté a fait sa première et unique apparition olympique aux JO de Tokyo 20
 
 ##  Technologies
 
-Python(Pandas)
-Matplotlib
-Power BI
+- Python(Pandas,Matplotlib)
+- Power BI
+
 
 ##  Démarche d'analyse
 
