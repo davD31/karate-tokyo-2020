@@ -15,8 +15,8 @@ Le karaté a fait sa première et unique apparition olympique aux JO de Tokyo 20
 ##  Démarche d'analyse
 
 ### 1. Chargement & Filtrage
-- Import des datasets Kaggle
-- Filtrage sur la discipline Karaté
+- Import des datasets de Kaggle
+- Filtrage sur la discipline du Karaté
 
 ### 2. Nettoyage des données
 - Vérification des valeurs nulles et doublons
@@ -25,13 +25,13 @@ Le karaté a fait sa première et unique apparition olympique aux JO de Tokyo 20
 - Création d'une colonne subdiscipline
 
 ### 3. Analyses réalisées
+
 - **Classement par pays**
 - **Parité hommes/femmes**
 - **Kata vs Kumite**
 - **Distribution des âges**
 
 ### 4. Visualisation Power BI
-Dashboard interactif en 2 pages :
 - **Page 1** : Vue d'ensemble par pays 
 - **Page 2** : Comparaison Kata vs Kumite
 
