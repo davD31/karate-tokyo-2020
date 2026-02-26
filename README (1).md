@@ -1,12 +1,12 @@
-# 🥋 Analyse du Karaté aux Jeux Olympiques de Tokyo 2020
+# Analyse du Karaté aux Jeux Olympiques de Tokyo 2020
 
-Analyse exploratoire des performances en karaté lors des JO de Tokyo 2020, avec nettoyage et transformation des données en Python (Pandas) et visualisation interactive via Power BI.
+Analyse des performances en karaté lors des JO de Tokyo 2020.
 
-## 📋 Contexte
+##  Contexte
 
-Le karaté a fait sa première (et unique) apparition olympique aux JO de Tokyo 2020, avec 8 épreuves réparties entre deux disciplines : le **Kata** (technique) et le **Kumite** (combat). Ce projet analyse les 32 médailles distribuées à 81 athlètes issus de 20 pays différents.
+Le karaté a fait sa première et unique apparition olympique aux JO de Tokyo 2020, avec 8 épreuves réparties entre deux disciplines : le **Kata** (technique) et le **Kumite** (combat). Ce projet analyse les 32 médailles distribuées à 81 athlètes issus de 20 pays différents.
 
-## 🛠️ Stack technique
+##  Stack technique
 
 | Outil | Utilisation |
 |-------|------------|
@@ -15,29 +15,7 @@ Le karaté a fait sa première (et unique) apparition olympique aux JO de Tokyo 
 | **Matplotlib** | Visualisations statistiques (bar charts, histogrammes, pie charts) |
 | **Power BI** | Dashboard interactif avec filtres et KPIs |
 
-## 📂 Structure du projet
-
-```
-karate-tokyo-2020/
-├── data/
-│   ├── raw/                  # Données brutes Kaggle
-│   │   ├── athletes.csv
-│   │   └── medals.csv
-│   └── clean/                # Données nettoyées (export Python)
-│       ├── medals_karate_clean.csv
-│       ├── athletes_karate_clean.csv
-│       └── karate_joined_clean.csv
-├── notebooks/
-│   └── analyse_karate.ipynb  # Notebook d'analyse complet
-├── powerbi/
-│   └── karate_dashboard.pbix # Dashboard Power BI
-├── images/                   # Captures du dashboard
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
-└── README.md
-```
-
-## 🔍 Démarche d'analyse
+##  Démarche d'analyse
 
 ### 1. Chargement & Filtrage
 - Import des datasets Kaggle (11 656 athlètes, 2 401 médailles toutes disciplines)
