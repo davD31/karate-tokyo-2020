@@ -38,8 +38,6 @@ Dashboard interactif en 2 pages :
 
 ## 📸 Aperçu du Dashboard
 
-> *Ajouter ici les captures d'écran de votre dashboard Power BI*
-
 <img width="1816" height="835" alt="image" src="https://github.com/user-attachments/assets/14d24070-81a3-442c-9639-0adea4220089" />
 <img width="1629" height="831" alt="image" src="https://github.com/user-attachments/assets/8ac898c6-888a-4740-b731-c4f0ef4eb6bc" />
 
